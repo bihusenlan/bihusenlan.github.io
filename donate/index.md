@@ -8,11 +8,8 @@ date: 2017-02-18 18:34:51 +0800
 > 转发和打赏都是对我最大的支持！
 
 
+
 [TOC]
-
-
-
-
 
 ---------------------------------------
 
@@ -24,12 +21,12 @@ date: 2017-02-18 18:34:51 +0800
 
 <br>![enter image description here](/styles/images/me/201002.png)
 <br>![enter image description here](/styles/images/me/201001.png)
-<br>![enter image description here](/styles/images/me/201009)
-<br>![enter image description here](/styles/images/me/2011)
-<br>![enter image description here](/styles/images/me/2012)
-<br>![enter image description here](/styles/images/me/2013)
-<br>![enter image description here](2016)
-<br>![enter image description here](/styles/images/me/2014)
+<br>![enter image description here](/styles/images/me/201009.jpg)
+<br>![enter image description here](/styles/images/me/2011.jpg)
+<br>![enter image description here](/styles/images/me/2012.jpg)
+<br>![enter image description here](/styles/images/me/2013.jpg)
+<br>![enter image description here](/styles/images/me/2016.jpg)
+<br>![enter image description here](/styles/images/me/2014.jpg)
 
 -----------------------------------------
 
@@ -52,10 +49,10 @@ date: 2017-02-18 18:34:51 +0800
 <p align="center">当然，如果你喜欢我的博客风格，希望快速定制一个，可以点击这<a href="{{ '/me' | prepend: site.baseurl }}">联系作者</a>。<br></p>
 ### 您需要准备
 
- - **个人照片** ： 72*72的头像 与 256*256证件照各一张；
+- **个人照片** ： 72*72的头像 与 256*256证件照各一张；
 - **word版简历** ：完整简历，一旦上传概不更改；
 - **文章** ：文章若干，最好与诉求工作息息相关
--- **联系方式** ：微信、微博、QQ、支付宝二维码
+- **联系方式** ：微信、微博、QQ、支付宝二维码
  
 ---------------
 **另外**，还有这里点击我的[Gihtub](https://github.com/bihusenlan)获得关于Unity3D平台和C#语言方面的更多信息，欢迎大家`fork/star`.
