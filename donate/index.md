@@ -19,16 +19,15 @@ date: 2017-02-18 18:34:51 +0800
 
 你可以选择手机支付宝扫一扫
 
-<img src="{{ '/styles/images/zhifubao.jpg' | prepend: site.baseurl }}" alt="支付宝二维码付款给倪明" />
-
+<div align=center><img src="{{ '/styles/images/zhifubao.jpg' | prepend: site.baseurl }}" alt="支付宝二维码付款给倪明" /></div> 
 -----------------------------------------
 
 ## 赞助方式2： 微信扫一扫
 
 你可以选择手机微信扫一扫
-
+<div align=center>
 ![微信二维码付款给倪明]({{ '/styles/images/wechat.jpg' | prepend: site.baseurl }})
-
+</div>
 
 
 **谢谢大家喽。**
