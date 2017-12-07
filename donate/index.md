@@ -5,26 +5,16 @@ header: 赞赏
 date: 2017-02-18 18:34:51 +0800
 ---
 
-> 转发和打赏都是对我最大的支持！
-
 [TOC]
+
+> 转发和打赏都是对我最大的支持！
 
 ---------------------------------------
 
 <p align="center">所以，如果你喜欢我的博客或风格，可以点击这<a href="{{ '/me' | prepend: site.baseurl }}">联系作者</a>。也许你会有不一样的收获！</p>
 ------------------------------------------
 
-##  My family
 
-
-<br>![enter image description here](/styles/images/me/201002.png)
-<br>![enter image description here](/styles/images/me/201001.png)
-<br>![enter image description here](/styles/images/me/201009.jpg)
-<br>![enter image description here](/styles/images/me/2011.jpg)
-<br>![enter image description here](/styles/images/me/2012.jpg)
-<br>![enter image description here](/styles/images/me/2013.jpg)
-<br>![enter image description here](/styles/images/me/2016.jpg)
-<br>![enter image description here](/styles/images/me/2014.jpg)
 
 -----------------------------------------
 
