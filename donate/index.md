@@ -7,8 +7,6 @@ date: 2017-02-18 18:34:51 +0800
 
 > 转发和打赏都是对我最大的支持！
 
-
-
 [TOC]
 
 ---------------------------------------
@@ -16,7 +14,7 @@ date: 2017-02-18 18:34:51 +0800
 <p align="center">所以，如果你喜欢我的博客或风格，可以点击这<a href="{{ '/me' | prepend: site.baseurl }}">联系作者</a>。也许你会有不一样的收获！</p>
 ------------------------------------------
 
-# My family
+##  My family
 
 
 <br>![enter image description here](/styles/images/me/201002.png)
@@ -68,3 +66,4 @@ date: 2017-02-18 18:34:51 +0800
 
 >声明: 此为倪明个人空间，用于分享作者所学的一些技术，如有侵权，请点击<a href="{{ '/me' | prepend: site.baseurl }}">联系本人</a>。除特殊说明外，本站文章均采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"> 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 </a>进行许可。
 >
+
