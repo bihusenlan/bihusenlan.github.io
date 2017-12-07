@@ -7,11 +7,21 @@ date: 2017-02-18 18:34:51 +0800
 
 > 转发和打赏都是对我最大的支持！
 
-
+[TOC]
 -----------------------------------------
 
 <p align="center">所以，如果你喜欢我的博客或风格，可以点击这<a href="{{ '/me' | prepend: site.baseurl }}">联系作者</a>。也许你会有不一样的收获！</p>
+------------------------------------------
 
+#My family
+我们结婚啦![enter image description here](/styles/images/me/201002.png)
+我们结婚啦![enter image description here](/styles/images/me/201001.png)
+可爱的宝宝和宝妈![enter image description here](/styles/images/me/201009)
+可爱的宝宝![enter image description here](/styles/images/me/2011)
+可爱的宝宝![enter image description here](/styles/images/me/2012)
+亲爱的宝妈![enter image description here](/styles/images/me/2013)
+我和宝宝![enter image description here](2016)
+顽皮的宝宝![enter image description here](/styles/images/me/2014)
 
 -----------------------------------------
 
@@ -28,8 +38,16 @@ date: 2017-02-18 18:34:51 +0800
 <div align=center>
 ![微信二维码付款给倪明]({{ '/styles/images/wechat.jpg' | prepend: site.baseurl }})
 </div>
-
-
+ 
+--------------------
+## 私人定制网页
+<p align="center">当然，如果你喜欢我的博客风格，希望快速定制一个，可以点击这<a href="{{ '/me' | prepend: site.baseurl }}">联系作者</a>。<br>
+**您需要准备**：
+  - **个人照片** 72*72的头像 与 256*256证件照各一张
+  - **word版简历** 完整简历
+  - **文章** 文章若干篇
+</p>
+ 
 **谢谢大家喽。**
 还有这里点击我的[Gihtub](https://github.com/bihusenlan)获得关于Unity3D平台和C#语言方面的更多信息，欢迎大家`fork/star`.
 
