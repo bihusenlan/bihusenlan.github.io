@@ -9,7 +9,7 @@ baseurl: ""  #根目录
 description: <p align="Center">云南师范大学计算机应用技术<b> 学硕</b></p><p align="Center"> 研究方向：计算机图形学</p><p align="Center">主攻<b> VR/Unity3D</b></p><p align="Center">数学基础好、学习能力强、算法功底扎实</p>
 motto: 倪 明
 #motto: 爱生活，写代码
-banner: 想找份Unity3D游戏开发工作
+banner: 倪明，1986年12月出生于安徽无为，毕业于云南师范大学，**计算机应用技术**专业。<br/>研究方向为计算机图形学、OpenGL ES、虚拟现实，目前使用平台**Unity3D**，语言C#.<br/>在校期间，获得****** ***编程大赛3等奖，做过一些桌面软件、手机App，以及基于U3D平台实现的VR项目。毕业论文题为《基于Unity3D的场景合并的研究与实现》。<br/>酷爱编程，愿从事手机游戏开发工作。
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
