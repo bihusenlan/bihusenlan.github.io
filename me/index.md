@@ -5,8 +5,6 @@
 <p align="center">Add:&nbsp;&nbsp;&nbsp;`现居 安徽合肥`</p>
 <p align="center">&nbsp;&nbsp;&nbsp;E-mail:&nbsp;&nbsp;&nbsp;`zhouniyao@163.com`</p>
 
-* content
-{:toc}	
 	
 ## ![enter image description here](/styles/images/me/education.png)   教育：
 
@@ -27,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您可以点击这里[Github](https://github.com/zhouniyao)，查看我在校期间学习、编写代码。当然，您也可以查看我的（最新）[中文简历](https://bihusenlan.github.io)。
 
 ## ![enter image description here](/styles/images/me/interest.png)  生活：
-另外，本网站的头像即是本人，您可以点击这里，浏览许多关于我在大学学习与生活、旅游和家庭的照片。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，本网站的头像即是本人，您可以点击这里，浏览许多关于我在大学学习与生活、旅游和家庭的照片。
 
 
 ## ![enter image description here](/styles/images/me/tel.png)  联系方式：
@@ -36,7 +34,7 @@
 <p align="center">Tel:&nbsp;&nbsp;`139 5510 7991`</p>
 <p align="center">Add:&nbsp;&nbsp;&nbsp;`现居 安徽合肥`</p>
 <p align="center">&nbsp;&nbsp;&nbsp;E-mail:&nbsp;&nbsp;&nbsp;`zhouniyao@163.com`</p>
-![微信：](%5Cstyles%5Cimages%5Cme%5Cchat.png)![enter image description here](%5Cstyles%5Cimages%5Cwechat2.png)
-![QQ:](%5Cstyles%5Cimages%5Cme%5CQQ.png) ![enter image description here](%5Cstyles%5Cimages%5CQQ2.png)
-![Github：](%5Cstyles%5Cimages%5Cme%5Cgithub.png)[www.github.com/zhouniyao](https://github.com/zhouniyao)
+![微信：](/styles/images/me/chat.png)![enter image description here](/styles/images/wechat2.png)
+![QQ:](/styles/images/me/QQ.png) ![enter image description here](/styles/images/QQ2.png)
+![Github：](/styles/images/me/github.png)[www.github.com/zhouniyao](https://github.com/zhouniyao)
 
