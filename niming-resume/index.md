@@ -1,7 +1,7 @@
 ![enter image description here](/niming-resume/Head.png)<br>
 ![enter image description here](/niming-resume/Education.png)<br>
 ![enter image description here](/niming-resume/%E4%B8%93%E4%B8%9A%E6%8A%80%E8%83%BD.png)<br>
-![enter image description here](/niming-resume/competitive.png)<br>
+![enter image description here](/niming-resume/Competitive2.png)<br>
 ![enter image description here](/niming-resume/ThesisAndHonor.png)<br>
 ![enter image description here](/niming-resume/ContactMe.png)
 
