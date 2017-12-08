@@ -1,4 +1,4 @@
-![enter image description here](/niming_resume/Head.png)<br>
+![enter image description here](/niming-resume/Head.png)<br>
 ![enter image description here](/niming-resume/Education.png)<br>
 ![enter image description here](/niming-resume/%E4%B8%93%E4%B8%9A%E6%8A%80%E8%83%BD.png)<br>
 
@@ -18,8 +18,8 @@
 13.	有良好的英文阅读与书写能力，第一年顺利通过研究生学位英语。去Google翻阅外文文献，去Stack Overflow搜索技术难题，也会针对一些问题阅读技术手册和官方文档来解决，例如我的个人网页（Jekyll静态网页）制作
 14.	对当前VR、游戏和动漫等内容行业有所了解及涉入
 
-![enter image description here](/niming_resume/ThesisAndHonor.png)<br>
-![enter image description here](/niming_resume/ContactMe.png)
+![enter image description here](/niming-resume/ThesisAndHonor.png)<br>
+![enter image description here](/niming-resume/ContactMe.png)
 
 <div align="center">
               <li class="we-chat">
@@ -33,4 +33,7 @@
                   </svg></a></span>
               </li>
 </div>
+
+
+
 
