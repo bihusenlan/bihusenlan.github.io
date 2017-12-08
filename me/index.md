@@ -1,6 +1,1 @@
-<h1><p align="center">About me</p></h1>
-
-<li>![enter image description here](/styles/images/me/info.png)<h3>信息：</h3></li>
-<p align="center">&nbsp;&nbsp;&nbsp;Tel:&nbsp;&nbsp;139 5510 7991</p>
-<p align="center">Add:&nbsp;&nbsp;现居 安徽合肥</p>
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail:&nbsp;&nbsp;zhouniyao@163.com</p>
+<h3><img class="contact-chat" src="/styles/images/info.png" alt="我"><b>信息：</b></h3>
