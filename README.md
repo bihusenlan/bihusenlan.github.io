@@ -9,7 +9,7 @@
 ----------
 
 
-<p align="center"><img src="/nm_icom/info2.png" alt="我">Unity3D游戏开发&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="/nm_icom/location2.png" alt="我">上海&nbsp;&nbsp;&nbsp;&nbsp;南京&nbsp;&nbsp;&nbsp;&nbsp;合肥&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/nm_icom/rmb2.png" alt="我">8k-10k</p>
+<p align="center"><img src="/nm_icon/info2.png" alt="我">Unity3D游戏开发&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="/nm_icon/location2.png" alt="我">上海&nbsp;&nbsp;&nbsp;&nbsp;南京&nbsp;&nbsp;&nbsp;&nbsp;合肥&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/nm_icon/rmb2.png" alt="我">8k-10k</p>
 
 
 
@@ -61,7 +61,7 @@
 
 <br><br>
 
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/nm_icom/thesis.png" alt="我">技术文章：</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/nm_icon/thesis.png" alt="我">技术文章：</h3>
 
 
 ----------
