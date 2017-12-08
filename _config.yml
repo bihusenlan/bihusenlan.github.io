@@ -1,15 +1,15 @@
 # Site settings
-name: 倪 明
+name: <a href="/niming-resume/" target="_blank">倪 明</a>
 email: zhouniyao@163.com
 author: Ni Ming
 url: https://bihusenlan.github.io
 resume_site: https://bihusenlan.github.io
 github: https://github.com/bihusenlan
 baseurl: ""  #根目录
-description: <p align="Center">云南师范大学 计算机应用技术<b> 学硕</b></p><p align="Center"> 研究方向：计算机图形学</p><p align="Center">主攻<b> VR/Unity3D</b></p><p align="Center">数学基础好、学习能力强、算法功底扎实</p>
+description: <p align="Center">云南师范大学 <a href="/niming-resume/" target="_blank">计算机应用技术<b> 学硕</b></a></p><p align="Center"> 研究方向：计算机图形学</p><p align="Center">主攻<b> VR/Unity3D</b></p><p align="Center">数学基础好、学习能力强、算法功底扎实</p>
 motto: 倪 明
 #motto: 爱生活，写代码
-banner: <a href="https://github.com/bihusenlan" target="_blank">倪明，毕业于云南师范大学，获 <b>计算机应用技术 硕士</b>学位。<br/>主要研究方向为计算机图形学、OpenGL ES、虚拟现实、Android游戏。目前使用平台<b> Unity3D</b>，语言 <b>C#</b>.</a>
+banner: <a href="/niming-resume/" target="_blank"> target="_blank">倪明，毕业于云南师范大学，获 <b>计算机应用技术 硕士</b>学位。<br/>主要研究方向为计算机图形学、OpenGL ES、虚拟现实、Android游戏。目前使用平台<b> Unity3D</b>，语言 <b>C#</b>.</a>
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
