@@ -1,41 +1,79 @@
-<h1><p align="center">About me</p></h1>
 
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/styles/images/me/info.png" alt="我">基本信息：</h3>
-<p align="center">&nbsp;&nbsp;&nbsp;Tel:&nbsp;&nbsp;<b>139 5510 7991</b></p>
-<p align="center">Add:&nbsp;&nbsp;现居 安徽合肥</p>
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail:&nbsp;&nbsp;zhouniyao@163.com</p>
 
-	
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/styles/images/me/education.png" alt="我">教育：</h3>
+<!-- 更新内容-->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年毕业于云南师范大学，获得计算机工学硕士学位，我的硕士论文题为《基基于Unity3D的场景合并的研究与实现》。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008年毕业于安徽农业大学，获获得管理学学士学位。之后，一直在国有控股企业从事市场管理、信息管理及公司官方网站的设计与更新等工作。<br>
 
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/styles/images/me/skill.png" alt="我">技能：</h3>
+
+<style type="text/css">
+h4 {letter-spacing: 1px}<!-- h4的字间距-->
+p{line-height:2em;}<!-- 段落行距-->
+</style>
+<h1 class="intro" align="center">Ni Ming's Resume<h1><br>
+<h3><img src="/styles/images/me/education.png" alt="我">Education</h3>
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+<h4><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><div style="float: left;">Yunnan Normal University</div><div style="float: right">Sep 2015 – Jun2018</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><div style="float: left;">Computer Speciality</div><div style="float: right">Kun Ming</div>
+</p><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hold 3 class programming competition will be awarded; And won 3 scholarship
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	熟练使用**Unity3D**制作场景、UI及脚本<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	熟知**C#**核心语法语义，面向对象设计思想。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	编程功底扎实，有**5万行代码**编辑经验。良好的编程习惯<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	熟悉基本的数据结构与常见的算法<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	能运用unity shader，结合材质为环境增添特效<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	熟悉3D图形学，熟悉**OpenGL** ES2.0，理解GPU图形管线流水线技术<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	了解SQL Server 2008数据库软件及SQL语句<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	数学基础佳，英文阅读能力好<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	有VR开发经验，了解VR、游戏和动漫等内容行业<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><div style="float: left;">AnHui Agriculture University</div><div style="float: right">Sep 2004 – Jun2008</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><div style="float: left;">Faculty of Management Sciences </div><div style="float: right">He Fei</div>
+</p></h4>
+<br>
+<h3><img src="/styles/images/me/skill.png" alt="我">Skill</h3>
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Master the basic architecture and operating principles of the Unity3D engine, well know the Unity3D development environment and common components</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Familiar with the Unity3D terrain engine, master the scene production and environmental configuration, such as lighting, halo, torch, sky box, terrain, water, flowers and trees, wind, fog and other effects of the deployment and modification.</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.C# script programming implements the handover between various scenes, as well as large scene segmentation and organization, dynamically loaded into the scene to memory</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.Understand the use of Unity3D plug-ins, such as NGUI, UGUI, EasyTouch, and ITween plug-ins</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Understand the working principle and environment configuration of the physical engine of particle system, collision detection and so on</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Have VR development experience: the project of the master's thesis is a script based on the C# language of the Unity3D platform. Implementation: the various small scene view dynamic merge and unloading based on, as the project solution by using VR Glasses + intelligent mobile phone, realize the scene on the Android platform has unlimited maxthon. Please click on the watch</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Familiarity with the Unity3D shader's principle of rendering and rendering the programmable pipeline, writing the unity shader shader, adding special effects to the environment with the material</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Familiar with the core syntax and semantics of C#, and grasp the object oriented language features such as exception, generics, overload operators, indexer, Lambda expressions, delegate callbacks, multithreading and so on. Master the basic API application, such as collection class, file IO class, LinQ strong type query, and so on. We have a deep understanding of the mechanisms of C#, multi thread, asynchronous loading, delegate, agent and so on. Familiar with the techniques of code editing and debugging in the Visual Studio development environment. Please click on the work</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. programming with solid foundation, 50 thousand lines of code programming experience, good coding style and writing annotation habits. Familiarity with basic data structures and common algorithms, and a profound understanding of object oriented design, analysis, and coding ideas. Please click on the watch</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Familiarity with 3D graphics, familiarity with OpenGL ES2.0, familiarity with OpenGL ES API, rendering and rendering of 3D graphics and images on Android platform.</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11. Understand SQL Server 2008 database system software, will use SQL statement, programming to achieve database, table, view additions and deletions to check operation, watch works, please click</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12. Mathematical foundation is good, once used the summer vacation tutored 3 senior high school students mathematics, one is the senior third student (comprehensive the elementary mathematics all questions)</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13. Good English reading and writing ability, the first year the smooth pass of graduate degree English. Go to Google to browse foreign literature, search for Stack Overflow, and solve some problems by reading technical manuals and official documents. For example, my personal web page (Jekyll static web page) is made.</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14. To the current VR, game and animation and other content industry to know and involve</h4>
+<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您可以点击这里[Github](https://github.com/zhouniyao)，查看我在校期间学习、编写代码。当然，您也可以查看我的（最新）[中文简历](https://bihusenlan.github.io)。
+<br>
+ <h4><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您可以点击这里<a href="https://github.com/zhouniyao">Github</a>，查看我在校期间学习、编写代码。当然，您也可以查看我的<a href="/niming-resume/">（最新的）中文简历</a>。</p></h4>
+<br>
+<h3><img src="/styles/images/me/computer.png" alt="我">Work Experience</h3>
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+<br><br>
 
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/styles/images/me/interest.png" alt="我">生活爱好：</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，本网站的头像即是本人，您可以点击这里，浏览许多关于我在大学学习与生活、旅游和家庭的照片。<br>
+<h3><img src="/styles/images/me/tel.png" alt="我">Contact</h3>
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+<h4><p>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can contact me with email or phone number if you want to get in touch and I am looking forward to seeing you as much as possible.</p></h4>
+<br>
 
+<h3><p align="center">&nbsp;&nbsp;&nbsp;Tel:&nbsp;&nbsp;<STRONG>139 5510 7991</STRONG></p></h3>
 
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/styles/images/me/tel.png" alt="我">联系我：</h3>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果您的企业正在**招聘Unity3D开发人员**且对我感兴趣，您可以通过以下方式联系本人，非常期待与您的会面。
+<h3><p align="center">Add:&nbsp;&nbsp;ADD: AnHui HeFei</p></h3>
 
-<p align="center">&nbsp;&nbsp;&nbsp;Tel:&nbsp;&nbsp;<b>139 5510 7991</b></p>
-<p align="center">Add:&nbsp;&nbsp;现居 安徽合肥</p>
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail:&nbsp;&nbsp;zhouniyao@163.com</p>
-
+<h3><p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail:&nbsp;&nbsp;zhouniyao@163.com</p>
+</h3>
+<br>
 <div align="center">
               <li class="we-chat">
                 <span class="contact-list_1"><img class="contact-chat" src="/styles/images/wechat.jpg" alt="我的微信"><svg viewBox="0 0 1024 1024" version="1.1" width="30" height="30"><path d="M570.625024 510.793728c-10.160128 0-20.32128 9.435136-20.32128 21.046272 0 9.435136 10.160128 18.869248 20.32128 18.869248 15.240192 0 26.126336-9.435136 26.126336-18.869248C596.75136 520.228864 585.865216 510.793728 570.625024 510.793728z" fill="#B5A9B7"></path><path d="M503.856128 412.818432c15.966208 0 26.126336-10.160128 26.126336-25.401344 0-15.966208-10.160128-25.401344-26.126336-25.401344-15.240192 0-29.755392 9.435136-29.755392 25.401344C474.100736 402.658304 488.615936 412.818432 503.856128 412.818432z" fill="#B5A9B7"></path><path d="M511.839232 65.717248c-246.009856 0-445.44 199.430144-445.44 445.44s199.430144 445.44 445.44 445.44 445.44-199.430144 445.44-445.44S757.849088 65.717248 511.839232 65.717248zM427.65312 624.01024c-26.852352 0-46.447616-4.354048-71.84896-11.61216l-73.299968 37.013504 21.046272-62.413824c-51.52768-36.287488-82.009088-82.009088-82.009088-137.89184 0-98.701312 92.895232-174.178304 206.111744-174.178304 100.15232 0 189.41952 59.510784 206.83776 143.69792-7.257088-1.451008-13.789184-2.177024-19.595264-2.177024-98.701312 0-174.90432 74.025984-174.90432 163.29216 0 15.240192 2.177024 29.029376 5.80608 43.544576C439.991296 624.01024 433.4592 624.01024 427.65312 624.01024zM730.289152 695.133184l14.5152 52.253696-55.156736-31.207424c-21.046272 4.354048-41.367552 10.886144-62.413824 10.886144-97.250304 0-174.178304-66.768896-174.178304-149.502976s76.929024-149.502976 174.178304-149.502976c92.169216 0 174.90432 66.768896 174.90432 149.502976C802.137088 624.01024 770.930688 665.377792 730.289152 695.133184z" fill="#B5A9B7"></path><path d="M360.159232 362.016768c-15.240192 0-31.207424 9.435136-31.207424 25.401344 0 15.240192 15.966208 25.401344 31.207424 25.401344 14.5152 0 26.126336-10.160128 26.126336-25.401344C386.285568 371.45088 374.673408 362.016768 360.159232 362.016768z" fill="#B5A9B7"></path><path d="M684.566528 510.793728c-10.886144 0-20.32128 9.435136-20.32128 21.046272 0 9.435136 9.435136 18.869248 20.32128 18.869248 14.5152 0 25.401344-9.435136 25.401344-18.869248C709.967872 520.228864 699.081728 510.793728 684.566528 510.793728z" fill="#B5A9B7"></path>
@@ -48,3 +86,21 @@
                   </svg></a></span>
               </li>
 </div>
+
+
+
+
+<br><br><br>
+<br><br><br>
+<hr style="height:3px;border:none;border-top:3px double red;" />
+
+
+
+
+
+
+
+
+<!-- 更新内容-->
+
+
