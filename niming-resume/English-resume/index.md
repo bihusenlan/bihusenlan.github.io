@@ -5,20 +5,20 @@
 
 
 <style type="text/css">
-h4 {letter-spacing: 1px}<!-- h4的字间距-->
-p{line-height:2em;}<!-- 段落行距-->
+h4 {letter-spacing: 1px}
+p{line-height:2em;}
 </style>
 <h1 class="intro" align="center">Ni Ming's Resume<h1><br>
 <h3><img src="/styles/images/me/education.png" alt="我">Education</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
-<h4><p>
+
 <div><div style="float: left;">&nbsp;&nbsp;&nbsp;Yunnan Normal University</div><div style="float: right">Sep 2015 – Jun2018&nbsp;&nbsp;&nbsp;</div>
 <div><div style="float: left;">&nbsp;&nbsp;&nbsp;Computer Speciality</div><div style="float: right">Kun Ming&nbsp;&nbsp;&nbsp;</div>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hold 3 class programming competition will be awarded; And won 3 scholarship
 <br>
 <div><div style="float: left;">&nbsp;&nbsp;&nbsp;AnHui Agriculture University</div><div style="float: right">Sep 2004 – Jun2008&nbsp;&nbsp;&nbsp;</div>
 <div><div style="float: left;">&nbsp;&nbsp;&nbsp;Faculty of Management Sciences </div><div style="float: right">He Fei&nbsp;&nbsp;&nbsp;</div>
-</p></h4>
+
 <br>
 <h3><img src="/styles/images/me/skill.png" alt="我">Skill</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
