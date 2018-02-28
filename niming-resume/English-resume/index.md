@@ -1,7 +1,7 @@
 
 
 <!-- 更新内容-->
-
+<img src="/_Photo/Nm_EnglishResume.png" alt="我">
 
 
 <style type="text/css">
