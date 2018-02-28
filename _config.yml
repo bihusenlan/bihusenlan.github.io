@@ -13,7 +13,7 @@ banner: <marquee scrollamount="10" ><a href="/niming-resume/" target="_blank">�
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
-paginate: 8
+paginate: 28
 paginate_path: "page:num"
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
