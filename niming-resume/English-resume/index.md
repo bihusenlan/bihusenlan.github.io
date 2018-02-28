@@ -25,34 +25,21 @@ p{line-height:2em;}
 <h3><img src="/styles/images/me/skill.png" alt="我">Skill</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Master the basic architecture and operating principles of the Unity3D engine, well know the Unity3D development environment and common components
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Familiar with the Unity3D terrain engine, master the scene production and environmental configuration, such as lighting, halo, torch, sky box, terrain, water, flowers and trees, wind, fog and other effects of the deployment and modification.</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.C# script programming implements the handover between various scenes, as well as large scene segmentation and organization, dynamically loaded into the scene to memory</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.Understand the use of Unity3D plug-ins, such as NGUI, UGUI, EasyTouch, and ITween plug-ins</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Understand the working principle and environment configuration of the physical engine of particle system, collision detection and so on</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Have VR development experience: the project of the master's thesis is a script based on the C# language of the Unity3D platform. Implementation: the various small scene view dynamic merge and unloading based on, as the project solution by using VR Glasses + intelligent mobile phone, realize the scene on the Android platform has unlimited maxthon. Please click on the watch</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Familiarity with the Unity3D shader's principle of rendering and rendering the programmable pipeline, writing the unity shader shader, adding special effects to the environment with the material</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Familiar with the core syntax and semantics of C#, and grasp the object oriented language features such as exception, generics, overload operators, indexer, Lambda expressions, delegate callbacks, multithreading and so on. Master the basic API application, such as collection class, file IO class, LinQ strong type query, and so on. We have a deep understanding of the mechanisms of C#, multi thread, asynchronous loading, delegate, agent and so on. Familiar with the techniques of code editing and debugging in the Visual Studio development environment. Please click on the work</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. programming with solid foundation, 50 thousand lines of code programming experience, good coding style and writing annotation habits. Familiarity with basic data structures and common algorithms, and a profound understanding of object oriented design, analysis, and coding ideas. Please click on the watch</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Familiarity with 3D graphics, familiarity with OpenGL ES2.0, familiarity with OpenGL ES API, rendering and rendering of 3D graphics and images on Android platform.</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11. Understand SQL Server 2008 database system software, will use SQL statement, programming to achieve database, table, view additions and deletions to check operation, watch works, please click</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12. Mathematical foundation is good, once used the summer vacation tutored 3 senior high school students mathematics, one is the senior third student (comprehensive the elementary mathematics all questions)</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13. Good English reading and writing ability, the first year the smooth pass of graduate degree English. Go to Google to browse foreign literature, search for Stack Overflow, and solve some problems by reading technical manuals and official documents. For example, my personal web page (Jekyll static web page) is made.</h4>
-<h4>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14. To the current VR, game and animation and other content industry to know and involve</h4>
-<h4>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Master the basic architecture and operating principles of the Unity3D engine, well know the Unity3D development environment and common components.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Familiar with the Unity3D terrain engine, master the scene production and environmental configuration, such as lighting, halo, torch, sky box, terrain, water, flowers and trees, wind, fog and other effects of the deployment and modification.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	C# script programming implements the handover between various scenes, as well as large scene segmentation and organization, dynamically loaded into the scene to memory.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Understand the use of Unity3D plug-ins, such as NGUI, UGUI, EasyTouch, and ITween plug-ins.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.	Understand the working principle and environment configuration of the physical engine of particle system, collision detection and so on.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.	Have VR development experience: the project of the master's thesis is a script based on the C# language of the Unity3D platform. Implementation: the various small scene view dynamic merge and unloading based on, as the project solution by using VR Glasses + intelligent mobile phone, realize the scene on the Android platform has unlimited maxthon. Please click on the watch.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.	Familiarity with the Unity3D shader's principle of rendering and rendering the programmable pipeline, writing the unity shader shader, adding special effects to the environment with the material.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.	Familiar with the core syntax and semantics of C#, and grasp the object oriented language features such as exception, generics, overload operators, indexer, Lambda expressions, delegate callbacks, multithreading and so on. Master the basic API application, such as collection class, file IO class, LinQ strong type query, and so on. We have a deep understanding of the mechanisms of C#, multi thread, asynchronous loading, delegate, agent and so on. Familiar with the techniques of code editing and debugging in the Visual Studio development environment. Please click on the work.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.	programming with solid foundation, 50 thousand lines of code programming experience, good coding style and writing annotation habits. Familiarity with basic data structures and common algorithms, and a profound understanding of object oriented design, analysis, and coding ideas. Please click on the watch.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.	Familiarity with 3D graphics, familiarity with OpenGL ES2.0, familiarity with OpenGL ES API, rendering and rendering of 3D graphics and images on Android platform.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.	Understand SQL Server 2008 database system software, will use SQL statement, programming to achieve database, table, view additions and deletions to check operation, watch works, please click.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.	Mathematical foundation is good, once used the summer vacation tutored 3 senior high school students mathematics, one is the senior third student (comprehensive the elementary mathematics all questions).
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.	Good English reading and writing ability, the first year the smooth pass of graduate degree English. Go to Google to browse foreign literature, search for Stack Overflow, and solve some problems by reading technical manuals and official documents. For example, my personal web page (Jekyll static web page) is made.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.	To the current VR, game and animation and other content industry to know and involve.
+
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 
 <br>
