@@ -24,5 +24,4 @@ FB:
   comments :
     provider : disqus
     disqus :
-        short_name : niming
- 
+        short_name : niming 
