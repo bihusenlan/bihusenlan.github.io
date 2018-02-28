@@ -283,4 +283,44 @@ p{line-height:2em;}
       </div>
  </div>
 <script src="{{ '/styles/js/tag.min.js' | prepend: site.baseurl }}"></script>
+<script>
+  var i=0;
+  var oTag=null;
+  oDiv=document.getElementById('tagscloud');
+  aA=oDiv.getElementsByTagName('a');
+  for(i=0;i<aA.length;i++)
+  {
+    oTag={};
+    aA[i].onmouseover = (function (obj) {
+      return function () {
+        obj.on = true;
+        this.style.zIndex = 9999;
+        this.style.color = '#fff';
+        this.style.padding = '5px 5px';
+        this.style.filter = "alpha(opacity=100)";
+        this.style.opacity = 1;
+      }
+    })(oTag)
+    aA[i].onmouseout = (function (obj) {
+      return function () {
+        obj.on = false;
+        this.style.zIndex = obj.zIndex;
+        this.style.color = '#fff';
+        this.style.padding = '0 5px';
+        this.style.filter = "alpha(opacity=" + 100 * obj.alpha + ")";
+        this.style.opacity = obj.alpha;
+        this.style.zIndex = obj.zIndex;
+      }
+    })(oTag)
+    oTag.offsetWidth = aA[i].offsetWidth;
+    oTag.offsetHeight = aA[i].offsetHeight;
+    mcList.push(oTag);
+  }
+  sineCosine( 0,0,0 );
+  positionAll();
+  (function () {
+    update();
+    setTimeout(arguments.callee, 40);
+  })();
+</script>
 
