@@ -6,7 +6,7 @@ h4 {letter-spacing: 1px}
 p{line-height:2em;}
 </style>
 
-<img src="/niming-resume/Nm_EnglishResume.png" alt="我">
+<head><img src="/niming-resume/Nm_EnglishResume.png" alt="我"></head>
 <h1 class="intro" align="center">Ni Ming's Resume<h1><br>
 <h3><img src="/styles/images/me/education.png" alt="我">Education</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
