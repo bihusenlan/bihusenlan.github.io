@@ -1,7 +1,7 @@
 
 
 <!-- 更新内容-->
-<head><img src="/_Photo/Nm_EnglishResume.png" alt="我"></head>
+<h1><img src="/_Photo/Nm_EnglishResume.png" alt="我"></h1>
 
 
 <style type="text/css">
