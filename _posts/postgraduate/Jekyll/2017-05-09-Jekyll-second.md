@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jekyll搭建博客--人类补完计划"
+title: "Jekyll搭建博客--自学篇"
 data: 2017-05-09 19:27:00 +0800
 categories: 研究生涯
 tag: Jekyll
@@ -34,7 +34,7 @@ tags:
 
 + `YAML`官方文档: [http://www.yaml.org/](http://www.yaml.org/)
 + `YAML` wiki百科: [https://zh.wikipedia.org/wiki/YAML](https://zh.wikipedia.org/wiki/YAML)
-+ 阮一峰博客: [http://www.ruanyifeng.com/blog/2016/07/yaml.html?f=tt](http://www.ruanyifeng.com/blog/2016/07/yaml.html?f=tt)
++ 倪明博客: [http://www.cnblogs.com/hugeNumber/tag](http://www.cnblogs.com/hugeNumber/tag)
 
 当然，这之后还需要在我们的页面中添加这个多个标签。以我的博客为例，我的标签是放在首页(`index.html`)。
 
