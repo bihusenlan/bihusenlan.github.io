@@ -37,7 +37,7 @@ tag: Jekyll
 
 ![enter image description here](/_Photo/works/Button_OnClick2.png)
 
-<img class="img-circle" src="/styles/images/me/me.jpg" alt="倪明本人">
+<img class="img-circle" src="/_Photo/works/Button_OnClick2.png" alt="倪明本人">
 
 ---
 
