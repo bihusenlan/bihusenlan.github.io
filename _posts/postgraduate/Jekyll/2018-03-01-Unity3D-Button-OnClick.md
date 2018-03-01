@@ -26,16 +26,27 @@ tag: Jekyll
 	        Debug.Log ("On Click Me");
 	    }
     } 
+
 ---
+
 #### 2 将”UGUIOnClick.cs”挂载到Canvas对象上<br>
+
+---
 
 #### 3 单击Button组件On Click()下方的”+”，给监听列表添加一个事件<br>
 <img src="/_Photo/works/Button_OnClick2.png" alt="倪明小站">
 
+---
+
 #### 4 将挂载有UGUIOnClick.cs脚本的游戏对象Canvas拖到下面选框中<br>
 <img src="/_Photo/works/Button_OnClick.png" alt="倪明小站">
 
+---
+
 #### 5 展开No Function字样的下拉框，选择UGUIOnClick/Onbt1Click<br>
 <img src="/_Photo/works/Button_OnClick3.png" alt="倪明小站">
+
+---
+
 
 #### 6 一个按钮的触控事件完成，只要我们点击Button，Onbt1Click()方法便提示我们点击了一次"On Click Me".
