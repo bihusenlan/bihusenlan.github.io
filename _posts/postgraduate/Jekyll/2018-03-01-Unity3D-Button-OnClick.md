@@ -49,7 +49,7 @@ tag: Jekyll
 ---
 
 #### 5 展开No Function字样的下拉框，选择UGUIOnClick/Onbt1Click<br>
-![enter image description here](/styles/photo/Button_OnClick3.png)
+![enter image description here](/styles/photo/Button_OnClick3.jpg)
 
 ---
 
