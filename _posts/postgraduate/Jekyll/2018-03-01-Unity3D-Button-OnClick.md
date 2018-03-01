@@ -7,12 +7,10 @@ tag: Jekyll
 ---
 * content
 {:toc}
-
-##为Button按钮添加OnClick()监听事件
-####1 创建任意一个C#脚本
-它继承自 
-@[MonoBehaviour类] 
-其中有我们将要被激活的 OnbtlClick()方法。
+ 
+当我们为场景设置GUI时，通常要为Button按钮添加OnClick()监听事件，下面就一起学习吧。
+#### 1 创建一个Button按钮，自动生成GUI面板，再创建任意一个C#脚本
+>它继承自MonoBehaviour类,其中有我们将要被激活的 OnbtlClick()方法。
 
 
     public class UGUIOnClick : MonoBehaviour {
@@ -28,13 +26,13 @@ tag: Jekyll
 	        Debug.Log ("On Click Me");
 	    }
     } 
+---
+#### 2 将”UGUIOnClick.cs”挂载到Canvas对象上<br>
 
-####2 将”UGUIOnClick.cs”挂载到Canvas对象上<br>
-
-####3 单击Button组件On Click()下方的”+”，给监听列表添加一个事件<br>
+#### 3 单击Button组件On Click()下方的”+”，给监听列表添加一个事件<br>
 <img src="/_Photo/works/Button_OnClick2.png" alt="倪明小站"><br>
-####4 将挂载有UGUIOnClick.cs脚本的游戏对象Canvas拖到下面选框中<br>
+#### 4 将挂载有UGUIOnClick.cs脚本的游戏对象Canvas拖到下面选框中<br>
 <img src="/_Photo/works/Button_OnClick.png" alt="倪明小站"><br>
-####5 展开No Function字样的下拉框，选择UGUIOnClick/Onbt1Click<br>
+#### 5 展开No Function字样的下拉框，选择UGUIOnClick/Onbt1Click<br>
 <img src="/_Photo/works/Button_OnClick3.png" alt="倪明小站"><br>
-####6 一个按钮的触控事件完成，只要我们点击Button，Onbt1Click()方法便提示我们点击了一次
+#### 6 一个按钮的触控事件完成，只要我们点击Button，Onbt1Click()方法便提示我们点击了一次
