@@ -33,11 +33,11 @@ tag: Jekyll
 
 #### 2 将”UGUIOnClick.cs”挂载到Canvas对象上<br>
 
-![niming]({{ '/_Photo/works/Button_OnClick.jpg' | prepend: site.baseurl }})
+![niming]({{ '/styles/photo/Button_OnClick2.png' | prepend: site.baseurl }})
 
-![enter image description here](/_Photo/works/Button_OnClick2.jpg)
+![enter image description here](/styles/photo/Button_OnClick2.png)
 
-<img class="img-circle" src="/_Photo/works/Button_OnClick2.jpg" alt="倪明本人">
+<img class="img-circle" src="/styles/photo/Button_OnClick2.png" alt="倪明本人">
 
 ---
 
