@@ -8,7 +8,8 @@ tag: Jekyll
 * content
 {:toc}
  
-当我们设置GUI时，通常要为Button按钮添加OnClick()监听事件，下面就一起学习吧。
+ 
+       当我们设置GUI时，通常要为Button按钮添加OnClick()监听事件，下面就一起学习吧。
 #### 1 创建一个Button按钮，自动生成GUI面板，再创建任意一个C#脚本
 >它继承自MonoBehaviour类,其中有我们将要被激活的 OnbtlClick()方法。
 
@@ -35,6 +36,8 @@ tag: Jekyll
 ![gitment]({{ '/styles/images/jekyll/gitment.png' | prepend: site.baseurl }})
 
 ![enter image description here](/_Photo/works/Button_OnClick2.png)
+
+<img class="img-circle" src="/styles/images/me/me.jpg" alt="倪明本人">
 
 ---
 
