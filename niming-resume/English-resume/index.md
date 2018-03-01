@@ -53,14 +53,22 @@ p{line-height:2em;}
   </p><p>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.	To the current VR, game and animation and other content industry to know and involve.
  </p><p>
-
-
 <br>
  <h4><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您可以点击这里<a href="https://github.com/zhouniyao">Github</a>，查看我在校期间学习、编写代码。当然，您也可以查看我的<a href="/niming-resume/">（最新的）中文简历</a>。</p></h4>
 <br>
+
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/nm_icon/thesis.png" alt="我">Thesis</h3>
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+<br>
+
 <h3><img src="/styles/images/me/computer.png" alt="我">Work Experience</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
 <br><br>
+
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/nm_icon/honor.png" alt="我">Honorary Credential</h3>
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+<br>
+Hold 3 class programming competition will be awarded; And won 3 scholarship.
 
 <h3><img src="/styles/images/me/tel.png" alt="我">Contact</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
