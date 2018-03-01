@@ -33,27 +33,23 @@ tag: Jekyll
 
 #### 2 将”UGUIOnClick.cs”挂载到Canvas对象上<br>
 
-![niming]({{ '/styles/photo/Button_OnClick2.png' | prepend: site.baseurl }})
 
-![enter image description here](/styles/photo/Button_OnClick2.png)
-
-<img class="img-circle" src="/styles/photo/Button_OnClick2.png" alt="倪明本人">
 
 ---
 
 #### 3 单击Button组件On Click()下方的”+”，给监听列表添加一个事件<br>
-<img src="/_Photo/works/Button_OnClick2.png" alt="倪明小站">
+![enter image description here](/styles/photo/Button_OnClick2.png)
 
 
 ---
 
 #### 4 将挂载有UGUIOnClick.cs脚本的游戏对象Canvas拖到下面选框中<br>
-<img src="/_Photo/works/Button_OnClick.png" alt="倪明小站">
+![enter image description here](/styles/photo/Button_OnClick.png)
 
 ---
 
 #### 5 展开No Function字样的下拉框，选择UGUIOnClick/Onbt1Click<br>
-<img src="/_Photo/works/Button_OnClick3.png" alt="倪明小站">
+![enter image description here](/styles/photo/Button_OnClick3.png)
 
 ---
 
