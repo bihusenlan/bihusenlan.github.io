@@ -36,6 +36,7 @@ tag: Jekyll
 
 #### 3 单击Button组件On Click()下方的”+”，给监听列表添加一个事件<br>
 <img src="/_Photo/works/Button_OnClick2.png" alt="倪明小站">
+![gitment]({{ '/_Photo/works/Button_OnClick2.png' | prepend: site.baseurl }})
 
 ---
 
