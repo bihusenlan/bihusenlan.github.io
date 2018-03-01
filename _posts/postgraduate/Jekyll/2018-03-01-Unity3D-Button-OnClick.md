@@ -35,4 +35,4 @@ tag: Jekyll
 <img src="/_Photo/works/Button_OnClick.png" alt="倪明小站"><br>
 #### 5 展开No Function字样的下拉框，选择UGUIOnClick/Onbt1Click<br>
 <img src="/_Photo/works/Button_OnClick3.png" alt="倪明小站"><br>
-#### 6 一个按钮的触控事件完成，只要我们点击Button，Onbt1Click()方法便提示我们点击了一次
+#### 6 一个按钮的触控事件完成，只要我们点击Button，Onbt1Click()方法便提示我们点击了一次"On Click Me".
