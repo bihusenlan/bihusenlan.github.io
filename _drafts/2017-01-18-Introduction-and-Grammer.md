@@ -3,7 +3,7 @@ layout: post
 title: "Introduction and Grammer"
 date: 2017-01-18 09:00:00 +0800 
 categories: 研究生涯
-tag: JavaScript
+tag: Jekyll
 ---
 * content
 {:toc}
