@@ -8,7 +8,7 @@ tag: Jekyll
 
 <center><h2>倪明</h2></center>
 <center>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;139 5510 7991 <strong>|</strong> zhouniyao@163.com</center>
-<center><h3>现居地：合肥</h4></center>
+<center><h4>现居地：合肥</h4></center>
 
 <h3><img src="/styles/images/me/education.png" alt="倪明的中文简历">教育经历</h3>
 
