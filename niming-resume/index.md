@@ -9,44 +9,15 @@ tag: Jekyll
 <center><h2>倪明</h2></center>
 <center>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;139 5510 7991 <strong>|</strong> zhouniyao@163.com</center>
 
-<h3><img src="/styles/images/me/education.png" alt="我">Education</h3>
+<h3><img src="/styles/images/me/education.png" alt="倪明的中文简历">教育经历</h3>
 
 ---
 
-	熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻；
-
-&nbsp;熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻；
-
-&ensp;熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻；
-
-&emsp;熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻；
-
-&thinsp;熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻；
-
-&zwnj;熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻；
-
-&zwj;熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻；
-
- 熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻；
- 
-熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻；
+<img src="/styles/images/me/ch-education.png" alt="倪明的中文简历">
 
 
-<h3><img src="/styles/images/me/education.png" alt="倪明中文简历">教育经历</h3>
 
----
-
-<div><div style="float: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yunnan Normal University</div><div style="float: right">Sep 2015 – Jun2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<br>
-<div><div style="float: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Science and Technology </div><div style="float: right">Kun Ming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<br>
-
-<div><div style="float: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AnHui Agriculture University</div><div style="float: right">Sep 2004 – Jun2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-<br>
-<div><div style="float: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Management Sciences </div><div style="float: right">He Fei&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-
-<h3><img src="/styles/images/me/skill.png" alt="倪明中文简历">专业技能</h3>
+<h3><img src="/styles/images/me/skill.png" alt="倪明的中文简历">专业技能</h3>
 
 ---
 
