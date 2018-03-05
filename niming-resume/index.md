@@ -20,13 +20,13 @@ tag: Jekyll
 ---
 
 ### 计算机图形学与数学基础    
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="/styles/images/me/fuhao.png" alt="倪明中文简历">熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻； 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="/styles/images/me/fuhao.png" alt="倪明中文简历">熟知GPU图形流水线原理，对各个渲染阶段及工作了解透彻； 
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="/styles/images/me/fuhao.png" alt="倪明中文简历">熟知OpenGL图形库中 API使用，针对 3D图形图像渲染绘制，Demo展示了在Android平台上常见3D模型的加载后，对模型的平移、旋转、缩放等触控操作的实现；
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="/styles/images/me/fuhao.png" alt="倪明中文简历">熟知OpenGL图形库中 API使用，针对 3D图形图像渲染绘制，Demo展示了在Android平台上常见3D模型的加载后，对模型的平移、旋转、缩放等触控操作的实现；
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="/styles/images/me/fuhao.png" alt="倪明中文简历">数学基础好，曾任数学家教，对3D图形学数学知识熟悉；
+&ensp;&ensp;&ensp;&ensp;<img src="/styles/images/me/fuhao.png" alt="倪明中文简历">数学基础好，曾任数学家教，对3D图形学数学知识熟悉；
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="/styles/images/me/fuhao.png" alt="倪明中文简历">良好的英文阅读能力，一年级通过研究生学位英语。在Google上翻阅过大量外文文献，遇到技术难题，常去Stack Overflow搜索答案，也有一些问题通过官方文档解决；
+&ensp;&ensp;&ensp;<img src="/styles/images/me/fuhao.png" alt="倪明中文简历">良好的英文阅读能力，一年级通过研究生学位英语。在Google上翻阅过大量外文文献，遇到技术难题，常去Stack Overflow搜索答案，也有一些问题通过官方文档解决；
 
 ### Unity3D引擎                                               
 掌握Unity3D引擎架构，熟知Unity3D开发环境及常用组件；
