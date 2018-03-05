@@ -6,9 +6,8 @@ categories: 研究生涯
 tag: Jekyll
 ---
 
-## 倪明
-<center>居中的center</center>
-
+<center><h2>倪明</h2></center>
+<center>139 5510 7991 <strong>|</strong> zhouniyao@163.com</center>
 
 ---
 
