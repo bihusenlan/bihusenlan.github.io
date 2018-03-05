@@ -7,7 +7,7 @@ tag: Jekyll
 ---
 
 ## 倪明
- 
+<center>居中的center</center>
 
 
 ---
@@ -19,4 +19,3 @@ tag: Jekyll
 ----------
 
 
-<hr style="height:1px;border:none;border-top:1px solid #555555;" />
