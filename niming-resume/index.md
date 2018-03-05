@@ -53,15 +53,20 @@ tag: Jekyll
 
 	三等奖学金	成绩单	编程大赛三等奖
 
-<h3><img src="/styles/images/me/these.png" alt="倪明中文简历">研究成果</h3>
+<h3><img src="/styles/images/me/thesis.png" alt="倪明中文简历">研究成果</h3>
 
 ---
 
 《基于Unity3D引擎的虚拟展馆设计与实现》
+
 《基于Unity3D引擎的场景合并的研究与实现》
+
 《基于Unity3D引擎的地形无缝隙拼合技术的研究》
+
 《信息学院书社图书管理信息系统的设计与实现》
+
 《基于Visual FoxPro技术的进销存管理信息系统》
+
 《基于OpenGL ES的Android平台下双目立体的研究与实现》
 
 
