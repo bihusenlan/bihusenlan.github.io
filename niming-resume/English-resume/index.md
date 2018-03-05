@@ -9,7 +9,7 @@ p{line-height:2em;}
 
 <h1 class="intro" align="center">Ni Ming's Resume<h1>
 <h3><img src="/styles/images/me/education.png" alt="我">Education</h3>
-<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+----------
  
 <div><div style="float: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yunnan Normal University</div><div style="float: right">Sep 2015 – Jun2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 <br>
