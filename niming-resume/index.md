@@ -16,9 +16,12 @@ tag: Jekyll
 
 ---
 云南师范大学                                              2015年9月- 2018年7月 
-&ensp;&ensp;&ensp;计算机应用技术                                                          学位硕士
 
+&ensp;&ensp;&ensp;计算机应用技术                                                          学位硕士
+ 
+ 
 安徽农业大学                                              2004年9月- 2008年7月
+
 &ensp;&ensp;&ensp;农村区域发展                                                               本科
 <h3><img src="/styles/images/me/skill.png" alt="倪明的中文简历">专业技能</h3>
 
