@@ -69,7 +69,7 @@
 
 <img src="/styles/images/me/fuhao.png" alt="倪明中文简历">编程大赛三等奖
 
-<h3><img src="/styles/images/me/these.png" alt="倪明中文简历">研究成果</h3>
+<h3><img src="/styles/images/me/thesis.png" alt="倪明中文简历">研究成果</h3>
 
 ---
 
