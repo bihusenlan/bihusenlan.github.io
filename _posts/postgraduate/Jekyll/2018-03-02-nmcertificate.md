@@ -8,9 +8,7 @@ tag: Jekyll
 * content
 {:toc}
 
-![gitment]({{ '/styles/photo/university/IMG_20180302_141623.jpg' | prepend: site.baseurl }})
 
-![gitment]({{ '/styles/photo/university/IMG_20180302_141700.jpg' | prepend: site.baseurl }})
 
 
 
