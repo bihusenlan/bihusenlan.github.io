@@ -24,6 +24,7 @@ p{line-height:2em;}
 <h3><img src="/styles/images/me/skill.png" alt="我">Skill</h3>
  
 ---
+
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Master the basic architecture and operating principles of the Unity3D engine, well know the Unity3D development environment and common components.
  <p>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Familiar with the Unity3D terrain engine, master the scene production and environmental configuration, such as lighting, halo, torch, sky box, terrain, water, flowers and trees, wind, fog and other effects of the deployment and modification.
