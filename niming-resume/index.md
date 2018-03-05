@@ -10,11 +10,15 @@ tag: Jekyll
 <center>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;139 5510 7991 <strong>|</strong> zhouniyao@163.com</center>
 <center><h4>现居地：合肥</h4></center>
 
+
+
 <h3><img src="/styles/images/me/education.png" alt="倪明的中文简历">教育经历</h3>
 
 ---
-
-<img src="/styles/images/me/ch-education.png" alt="倪明的中文简历">
+云南师范大学                                              2015年9月- 2018年7月 
+&ensp;&ensp;&ensp;计算机应用技术                                                          学位硕士
+安徽农业大学                                              2004年9月- 2008年7月
+&ensp;&ensp;&ensp;农村区域发展                                                               本科
 <h3><img src="/styles/images/me/skill.png" alt="倪明的中文简历">专业技能</h3>
 
 ---
