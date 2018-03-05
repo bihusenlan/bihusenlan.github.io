@@ -1,0 +1,24 @@
+---
+layout: post
+title: "基于OpenGL ES的Android平台下双目立体的研究与实现"
+data: 2018-03-04 9:27:00 +0800
+categories: 研究生涯
+tag: Jekyll
+---
+
+
+
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;由于论文上传到github后台，不仅涉及大量的文字布局和图文表格上传，而且网速巨慢，上传经常出现错误，重新上传。故本人提供论文内容截图和源代码，供读者预览。
+ 
+---
+ 
+### 郑重声明：
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;论文皆为本人研究生期间的学术成果，有源代码和文档，即为本人原创，转载请注明出处。读者若感兴趣，可以提供观看论文原文电子版。
+
+---
+
+### 论文部分截图
+
+
+<img src="/styles/photo/university/基于OpenGL ES的Android平台下双目立体的研究与实现.png" alt="休息厅"><br>
+<img src="/styles/photo/university/基于OpenGL ES的Android平台下双目立体的研究与实现2.png" alt="休息厅"><br>
