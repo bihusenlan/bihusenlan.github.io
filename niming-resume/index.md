@@ -7,10 +7,8 @@ tag: Jekyll
 ---
 
 <center><h2>倪明</h2></center>
-<center>&ensp;&ensp;&ensp;139 5510 7991 <strong>|</strong> zhouniyao@163.com</center>
-<center>&ensp;&ensp;139 5510 7991 <strong>|</strong> zhouniyao@163.com</center>
-<center>&ensp;139 5510 7991 <strong>|</strong> zhouniyao@163.com</center>
-<center>  139 5510 7991 <strong>|</strong> zhouniyao@163.com</center>
+<center>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;139 5510 7991 <strong>|</strong> zhouniyao@163.com</center>
+
 
 ---
 
