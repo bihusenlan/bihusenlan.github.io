@@ -20,6 +20,6 @@ tag: Jekyll
 ### 论文部分截图
 
 
-<img src="/styles/photo/university/基于Visual FoxPro技术的进销存管理信息系统1.png" alt="休息厅">
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="/styles/photo/university/基于Visual FoxPro技术的进销存管理信息系统1.png" alt="休息厅">
 
 <img src="/styles/photo/university/基于Visual FoxPro技术的进销存管理信息系统2.png" alt="休息厅">
