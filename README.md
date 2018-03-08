@@ -38,6 +38,8 @@
 
 <img src="/styles/images/me/fuhao.png" alt="倪明中文简历">掌握图形流水线中可编程管线工作原理，会编写ShaderLab着色器程序，具备性能优化技巧；
 
+<img src="/styles/images/me/fuhao.png" alt="倪明中文简历">熟悉3D制图软件3DsMax；
+
 ### C#语言与常用Algorithm  
 <img src="/styles/images/me/fuhao.png" alt="倪明中文简历">熟练C#核心语法语义，掌握异常、泛型、重载运算符、索引器、Lambda表达式、委托回调、多线程等面向对象语言特性。掌握基本的API运用，如集合类、文件IO类、LinQ强类型查询等。对C#的协程、多线程、异步加载、委托、代理等机制有深入的理解；
 
