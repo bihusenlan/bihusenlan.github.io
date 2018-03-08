@@ -9,8 +9,7 @@ baseurl: ""  #根目录
 description: 我只佩服两类人：一种是改变世界的人，另一种是教会别人改变世界的人。
 motto: 倪 明
 #motto: 爱生活，写代码
-banner: <marquee scrollamount="10" ><a href="/niming-resume/" target="_blank">倪明，毕业于云南师范大学，获 <b>计算机应用技术 工学硕士</b>学位。主要研究方向为计算机图形学，对图像真实感、光影、流体等特效有深入研究。目前使用平台<b> Unity3D</b>，语言 <b>C#</b>。会编写Unity平台下的Unity Shader程序，能胜任从事Unity开发全职的工作。
-数学基础好，数据结构与算法功底扎实；酷爱编程，英文阅读佳。</a></marquee>
+banner: <marquee scrollamount="10" ><a href="/niming-resume/" target="_blank">倪明，毕业于云南师范大学，获 <b>计算机应用技术 工学硕士</b>学位。主要研究方向为计算机图形学，对图像真实感、光影、流体等特效有深入研究。目前使用平台<b> Unity3D</b>，语言 <b>C#</b>。会编写Unity平台下的Unity Shader程序，能胜任从事Unity开发全职的工作。数学基础好，数据结构与算法功底扎实；酷爱编程，英文阅读佳。</a></marquee>
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
