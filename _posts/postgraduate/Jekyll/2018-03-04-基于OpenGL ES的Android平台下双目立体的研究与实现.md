@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "基于OpenGL ES的Android平台下双目立体的研究与实现"
-data: 2018-03-04 9:27:00 +0800
+data: 2018-03-04 00:27:00 +0800
 categories: 研究生涯
 tag: Jekyll
 ---
