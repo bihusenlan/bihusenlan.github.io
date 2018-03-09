@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "基于Visual FoxPro技术的进销存管理信息系统"
-data: 2018-03-04 9:27:00 +0800
+data: 2018-03-03 19:29:00 +0800
 categories: 研究生涯
 tag: Jekyll
 ---
